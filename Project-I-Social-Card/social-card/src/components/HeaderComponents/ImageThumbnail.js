@@ -8,7 +8,7 @@ const ImageThumbnail = () => {
     const thumbnailImg = 'https://tk-assets.lambdaschool.com/1c1b7262-cf23-4a9f-90b6-da0d3c74a5c6_lambdacrest.png';
     
     return (
-      <img src={thumbnailImg} alt='Lambda Logo' />
+      <img className='thumbImg' src={thumbnailImg} alt='Lambda Logo' />
     );
   };
   

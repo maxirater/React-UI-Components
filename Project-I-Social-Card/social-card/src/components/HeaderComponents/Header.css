@@ -1,21 +1,9 @@
 /* All styles for your header Components live here */
-.HeaderContainer{
-    /* height: 100px; */
-    display: flex;
-}
-
-img{
+.thumbImg{
     width: 100px;
+    margin-right: 30px;
 }
 
-.HeaderTitle{
-
-}
-
-.HeaderContent{
-
-}
-
-.ImageThumbnail{
-    width: 20%;
+.HeaderContainer{
+    display: flex;
 }

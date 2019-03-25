@@ -1,4 +1,9 @@
 /* All styles for your Card Components live here */
 
+.Card-Content{
+    width: 600px;
+}
 
-
+.CardImage{
+    width: 100%;
+}
