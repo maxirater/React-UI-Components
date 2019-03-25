@@ -7,3 +7,7 @@
 .CardImage{
     width: 100%;
 }
+
+.CardContainer{
+    margin-left: 100px;
+}

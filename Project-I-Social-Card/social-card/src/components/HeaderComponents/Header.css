@@ -1,7 +1,9 @@
 /* All styles for your header Components live here */
 .thumbImg{
     width: 100px;
+    height: 120px;
     margin-right: 30px;
+    margin-top: 10px;
 }
 
 .HeaderContainer{

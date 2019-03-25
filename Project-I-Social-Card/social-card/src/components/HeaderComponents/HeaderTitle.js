@@ -6,7 +6,7 @@ import moment from 'moment';
 
 const HeaderTitle = () => {
     return (
-        <p><strong>Lambda School</strong> @LambdaSchool {moment().format('dd mm')}</p>
+        <p><strong>Lambda School</strong> @LambdaSchool {moment().format('e MMM')}</p>
     );
   };
   
