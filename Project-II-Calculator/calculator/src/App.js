@@ -14,7 +14,7 @@ const styleArr = ['red'];
 
 const App = () => {
   return (
-    <div className='.container'>
+    <div className='container'>
       
       <div>
         <CalculatorDisplay text={calcObj.num[0]} />
