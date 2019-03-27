@@ -6,7 +6,7 @@ function CalculatorDisplay(props) {
     console.log(props.studentProp);
     return (
         <form action=''>
-        <input className={`props.displayStyle Display`}>{props.text}</input>
+        <button className={`props.displayStyle Display`}>{props.text}</button>
         </form>
     );
   }
